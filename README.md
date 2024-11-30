@@ -4,7 +4,7 @@ A collection of resources for Delta.
 
 ## Styleguide
 
-North7 styleguide reference and resources
+Delta styleguide reference and resources
 
 ## Logo
 
@@ -17,7 +17,7 @@ North7 styleguide reference and resources
 ![SymbolWhite](logo/white.svg)
 
 
-## Color
+## Colors
 
 Coming soon...
 
