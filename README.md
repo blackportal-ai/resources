@@ -10,11 +10,11 @@ Delta styleguide reference and resources
 
 ### Black symbol
 
-![SymbolBlack](logo/black.svg)
+![SymbolBlack](logo/Δ_black_logo.svg)
 
 ### White symbol
 
-![SymbolWhite](logo/white.svg)
+![SymbolWhite](logo/Δ_white_logo.svg)
 
 
 ## Colors
