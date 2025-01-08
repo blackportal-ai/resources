@@ -6,20 +6,31 @@ A collection of resources for Delta.
 
 Delta styleguide reference and resources
 
-## Logo
+## BlackPortal Logo
 
-### Black symbol
+### Black
 
-![SymbolBlack](logo/Δ_black_logo.svg)
+![BlackPortalSymbolBlack](blackportal/logo/blackportal_black_logo.svg)
 
-### White symbol
+### White
 
-![SymbolWhite](logo/Δ_white_logo.svg)
+![BlackPortalSymbolWhite](blackportal/logo/blackportal_white_logo.svg)
 
+## Delta Logo
 
-## Colors
+### Black
 
-Coming soon...
+![DeltaSymbolBlack](delta/logo/Δ_black_logo.svg)
+
+### White
+
+![DeltaSymbolWhite](delta/logo/Δ_white_logo.svg)
+
+## Nebula Logo
+
+### Default
+
+![NebulaSymbolBlack](nebula/logo/nebula.svg)
 
 ## Contributors
 
