@@ -31,3 +31,9 @@ Delta styleguide reference and resources
 ### Default
 
 ![NebulaSymbolBlack](nebula/logo/nebula.svg)
+
+## Horizon Logo
+
+### Default
+
+![HorizonSymbolBlack](horizon/logo/horizon_logo.svg)
